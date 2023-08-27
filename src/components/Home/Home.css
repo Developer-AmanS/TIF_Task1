@@ -1,0 +1,26 @@
+.heading_home{
+   
+    font-weight: 700;
+    font-family: var(--title-font);
+    color: var(--title-color);
+   
+}
+
+.heading_home > span{
+    color: var(--button-color);
+}
+
+.p_home{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.home_button {
+
+    border-radius: 34px;
+margin-top: 10px;
+    font-weight: 700;
+}
+

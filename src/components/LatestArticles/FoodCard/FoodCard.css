@@ -1,0 +1,27 @@
+.card{
+border:1px solid rgba(147, 162, 211, 0.38);
+
+}
+
+
+
+.heading{
+    font-family: var(--subtitle-font);
+    color: var(--title-color);
+
+    font-weight: 700;
+}
+
+.p_fc{
+    
+    font-family: var(--body-font);
+}
+
+.card_button{
+    border-radius: 21px;
+    background-color: transparent;
+
+    color: var(--title-color);
+    font-family: var(--title-font);
+    font-weight: 600;
+}
